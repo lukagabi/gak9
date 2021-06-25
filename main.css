@@ -78,7 +78,7 @@
 .text1{
     padding: 20px 30px;
 }
-.text1 h3{
+.text1 h4{
     text-align:15px;
     color:#707070;
 }
@@ -105,7 +105,7 @@
 .text2{
     padding: 20px 30px;
 }
-.beside_text{
+.text{
     display: flex;
     justify-content: flex-end;
     padding:80px 10px 0 10px;
@@ -132,7 +132,7 @@
 .text3{
     padding: 20px 30px;
 }
-.between_text{
+.text6{
     display: flex;
     justify-content: center;
     padding:20px 0 0;
